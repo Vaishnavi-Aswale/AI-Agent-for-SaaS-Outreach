@@ -21,7 +21,7 @@ An intelligent B2B outreach automation tool that helps SaaS companies find poten
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Vaishnavi-Aswale/AI-Agent-for-SaaS-Outreach.git
    cd ai-email-agent-saas
    ```
 
